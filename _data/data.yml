@@ -7,31 +7,28 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 李明
+    tagline: 软件架构师
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: liming.dl@gmail.com
+    phone: +61 0426365442
+    website: www.hellosleep.net #do not add http://
+    linkedin: liming-dl
+    github: liming
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: 中文
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: 英语
         level: Professional
 
     interests:
@@ -45,15 +42,11 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: 个人总结
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      - 超过十年BI产品研发经验。负责Rocket Software三代BI产品的研发。并负责最新两代产品的规划、原型设计和软件架构。
+      - 经历软件产品构建的完整生命周期，包括计划、设计、架构、研发、发布、维护和重构。
+      - 负责BI软件产品的全栈研发，
 
 education:
     - degree: MSc in Computer Science
