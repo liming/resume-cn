@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto',Helvetica,Arial,sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 13px;
+    font-size: 14px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -199,7 +199,7 @@ p {
     }
 
     .project-title {
-        font-weight: 400;
+        font-weight: 600;
         margin-top: 0;
         margin-bottom: 5px;
     }
