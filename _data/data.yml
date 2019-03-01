@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: liming.dl@gmail.com
     phone: +61 0426365442
-    website: www.hellosleep.net #do not add http://
     linkedin: liming-dl
     github: liming
     gitlab:
@@ -35,7 +34,7 @@ sidebar:
       - item: 足球
         link:
 
-      - item: 慢跑
+      - item: 冥想
         link:
 
       - item: 写作
@@ -45,12 +44,12 @@ career-profile:
     title: 个人总结
     summary: |
       - 超过十年BI产品研发经验。负责Rocket Software三代BI产品的研发。并负责最新两代产品的规划、原型设计和软件架构。
-      - 经历软件产品研发的完整生命周期，包括需求分析、计划、设计、架构、研发、发布、维护和重构。
-      - 负责产品的全栈研发和架构，包括前段、中间件与数据处理；负责产品在云端和本机的部署；负责产品质量保证流程的设计和基础构架搭建。
-      - 多种类型的软件研发经验，包括系统应用、网络应用和手机应用。
+      - 经历软件产品研发的完整生命周期，包括需求分析、计划、原型设计、架构、研发、发布、维护和重构。
+      - 熟悉整个产品研发流程，包括全栈研发和架构（前端、中间件和后端数据处理），云端和本机的部署，质量保证流程的设计和自动化测试构架搭建。
+      - 多种类型以及多个平台的软件研发经验，包括系统应用、网络应用和手机应用。
 
 education:
-    - degree: 通信与信息系统硕士些微
+    - degree: 通信与信息系统硕士学位
       university: 大连理工大学
       time: 2004 - 2006
       details: |
@@ -68,7 +67,7 @@ experiences:
         作为Rocket Software全球架构组成员， 参与全公司范围内不同产品之间的技术共享和实现。作为QMF Vision产品架构师，
         负责产品的规划、上层架构设计以及多个部分的代码验证和实现。
 
-          - 与其他产品组的架构师和开发人员合作，将已有产品的技术运用到其他产品中，促进多个产品之间的技术共享。
+          - 与其他产品组的架构师和开发人员合作，将已有技术运用到其他产品中，促进多个产品之间的技术共享。
           - 负责并参与QMF Vision的需求分析、产品构架、接口定义以及工作流程制定。
           - 负责从前端界面到后端数据处理各个层面的关键组件设计、验证和研发。
           - 负责创建和维护代码结构，确保不同功能和库的可重用性。
@@ -100,6 +99,7 @@ experiences:
 projects:
     title: 项目
     intro: >
+      在工作中和工作外开发的独立项目。
 
     assignments:
       - title: 睡吧网站
@@ -122,6 +122,10 @@ projects:
         link: "#"
         tagline: "Rocket Component提供一种方式来利用模块化思想建立网络应用。此项目获得Rocket Build的CPO大奖。"
 
+      - title: Vision可视化组件
+        link: "#"
+        tagline: "为产品开发的独立可视化组件，目前已经被公司多个其他的产品所使用。"
+
 skills:
     title: 技能 &amp; 专业
 
@@ -141,7 +145,7 @@ skills:
       - name: Database (SQL & NoSQL)
         level: 90%
 
-      - name: Deployment (Docker & Heroku & Amazon & Ali Cloud)
+      - name: Cloud Deployment
         level: 80%
 
       - name: Java & C++
