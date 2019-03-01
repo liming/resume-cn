@@ -26,168 +26,124 @@ sidebar:
 
     languages:
       - idiom: 中文
-        level: Native
+        level: 本地
 
       - idiom: 英语
-        level: Professional
+        level: 专业
 
     interests:
-      - item: Climbing
+      - item: 足球
         link:
 
-      - item: Snowboarding
+      - item: 慢跑
         link:
 
-      - item: Cooking
+      - item: 写作
         link:
 
 career-profile:
     title: 个人总结
     summary: |
       - 超过十年BI产品研发经验。负责Rocket Software三代BI产品的研发。并负责最新两代产品的规划、原型设计和软件架构。
-      - 经历软件产品构建的完整生命周期，包括计划、设计、架构、研发、发布、维护和重构。
-      - 负责BI软件产品的全栈研发，
+      - 经历软件产品研发的完整生命周期，包括需求分析、计划、设计、架构、研发、发布、维护和重构。
+      - 负责产品的全栈研发和架构，包括前段、中间件与数据处理；负责产品在云端和本机的部署；负责产品质量保证流程的设计和基础构架搭建。
+      - 多种类型的软件研发经验，包括系统应用、网络应用和手机应用。
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 通信与信息系统硕士些微
+      university: 大连理工大学
+      time: 2004 - 2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: 电子信息工程学士学位
+      university: 大连理工大学
+      time: 2000 - 2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 软件架构师
+      time: 2017 - Present
+      company: Rocket Software, 悉尼
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        作为Rocket Software全球架构组成员， 参与全公司范围内不同产品之间的技术共享和实现。作为QMF Vision产品架构师，
+        负责产品的规划、上层架构设计以及多个部分的代码验证和实现。
 
-          - Bullet point
-          - Bullet point
+          - 与其他产品组的架构师和开发人员合作，将已有产品的技术运用到其他产品中，促进多个产品之间的技术共享。
+          - 负责并参与QMF Vision的需求分析、产品构架、接口定义以及工作流程制定。
+          - 负责从前端界面到后端数据处理各个层面的关键组件设计、验证和研发。
+          - 负责创建和维护代码结构，确保不同功能和库的可重用性。
+          - 负责产品代码的检查、知识库的构建、开发环境的搭建、技术招聘等等。
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 软件架构师 | 高级软件研发工程师
+      time: 2014 - 2017
+      company: Rocket Software, 大连
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        作为Rocket Discover产品架构师和团队带头人，带领整个开发团队的技术研发，负责产品的规划、架构、部署以及中间件的代码实现。
 
-          - Bullet point
-          - Bullet point
+          - 负责并参与Rocket Discover的需求分析、产品构架、接口定义以及工作流程制定。
+          - 带领开发团队，负责任务分配、开发人员之间的沟通、技术共享以及团队建设。
+          - 负责产品中间件的开发、部分前端组件的开发和重建、产品发布与部署。
+          - 负责搭建和维护代码仓库、管理产品知识库、技术招聘、新人培训等。
+          - 参与质量保证部门流程建立，搭建自动化测试基础构架。
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: 软件研发工程师
+      time: 2008 - 2014
+      company: Rocket Software, 大连
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        作为CorBusiness产品的开发团队带头人，帮助产品开发团队从零扩展到十几人，负责产品的维护、新功能开发以及团队建设。
 
-          - Bullet point
-          - Bullet point
+          - 维护CorBusiness产品的桌面应用和网络应用。
+          - 负责产品代码的检查、技术招聘以及新人培训。
+          - 帮助客户解决实际使用中存在的问题。
+          - 设计并重建网络应用中的可视化组件、开发新功能模块。
 
 projects:
-    title: Projects
+    title: 项目
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 睡吧网站
+        link: "http://www.hellosleep.net"
+        tagline: "为了帮助失眠人群搭建的网站，用来归纳、整理所有的睡吧知识并提供自助评估服务."
 
-      - title: DevStudio
+      - title: 睡吧后台管理服务
+        link: "http://hellosleep.net:1337/admin/"
+        tagline: "睡吧的后台服务提供API和内容接口，网站和移动应用可以连接此服务。"
+
+      - title: zOS Performance Monitor
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "利用移动平台搭建了大机的性能监控应用。此项目获得Rocket Build一等奖。"
 
-      - title: Tempo
+      - title: When Data Analystic meet Social Networking
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "在BI平台中集成社交服务接口，可以通过此接口连接多个社交网站，可以推送数据分析结果并获得社交反馈。此项目获得Rocket Build二等奖。"
 
-      - title: Atom
+      - title: Rocket Component
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Rocket Component提供一种方式来利用模块化思想建立网络应用。此项目获得Rocket Build的CPO大奖。"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能 &amp; 专业
 
     toolset:
-      - name: Python & Django
+      - name: 软件系统架构
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: 项目管理
+        level: 90%
+
+      - name: Javascript
         level: 98%
 
-      - name: Angular
+      - name: ReactJS & HTML5 & CSS
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Database (SQL & NoSQL)
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Deployment (Docker & Heroku & Amazon & Ali Cloud)
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java & C++
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
